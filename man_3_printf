@@ -66,4 +66,5 @@ _printf("%s, %s %d, %d\\n", weekday, month, day, year);
 .SH BUGS
 No known bugs.
 .SH AUTOUR
-Purity Kwamboka, John Mambo
+Purity Kwamboka
+John Mambo
